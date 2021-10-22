@@ -1,6 +1,3 @@
-I'm Michelle👋🏾, based in Tokyo Japan, a professional Creative Director, Designer, and Front-end Developer with 10+ years of experience in the field of Multimedia.
-
-Skilled in team concept development, pitching ideas, creative strategy, and execution. With knowledge of UI/UX design, HTML, CSS, Javascript, and Ruby on Rails. With a great passion for branding, story-telling, motion design, design systems, accessibility, and innovation.
 
 <!--
 **mbasco/mbasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
