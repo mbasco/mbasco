@@ -2,6 +2,15 @@
 
 <h3 align="center"> Creative Director, Designer and Front-end Developer based in Tokyo Japan 🇯🇵🍣</h3>
 
+- 👩🏾‍💻 Currently learning **React.JS, Vue.JS, Typescript**
+
+- 🧗🏽‍♀️ When I'm not working, you would see me doing **rock climbing, camping, golf**
+
+
+### Recent Projects
+ - 🚚 [RollingKitchen: A Marketplace Platform for FoodTrucks and Event Organizer](https://rollingkitchen.herokuapp.com/)
+ - 🎥 [Freescriber: Make the world’s videos more accessible through Interactive Transcripts using Google & Youtube API](http://www.freescriber.com/)
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -42,34 +51,38 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="git" width="40" height="40"/ > 
 </div>  
 
-<h3 align="center">Let's connect</h3>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbasco&show_icons=true&locale=en&layout=compact&hide=html&theme=gotham" alt="mbasco" /></p>
+
+<h3 align="center">Let's connect </h3>
 
 <p align="center"> 
   <a href="https://mbasco.com/" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/www.svg" alt="Michelle B | Website" width="22px"/>
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/www.svg" alt="Michelle B | Website" width="30" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/mbasco/" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/linkedin.svg" alt="Michelle B | LinkedIn" width="22px"/> 
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/linkedin.svg" alt="Michelle B | LinkedIn" width="30" height="30"/> 
   </a>
  <a href="https://www.instagram.com/_mcbasco/?hl=en" target="_blank">
-   <img src="https://github.com/mbasco/mbasco/blob/main/Icons/insta.svg" alt="Michelle B | Instagram" width="22px"/> 
+   <img src="https://github.com/mbasco/mbasco/blob/main/Icons/insta.svg" alt="Michelle B | Instagram" width="30" height="30"/> 
   </a>
   <a href="https://twitter.com/_mcbasco" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/twitter.svg" alt="Michelle B | Twitter" width="22px"/> 
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/twitter.svg" alt="Michelle B | Twitter" width="30" height="30"/> 
   </a>
   <a href="https://www.facebook.com/mcbasco.15" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/facebook.svg"  alt="Michelle B | Twitter" width="22px"/> 
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/facebook.svg"  alt="Michelle B | Twitter" width="30" height="30"/> 
   </a>
   <a href="https://www.behance.net/_mcbasco" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/behance.svg"  alt="Michelle B | Behance" width="22px"/> 
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/behance.svg"  alt="Michelle B | Behance" width="30" height="30"/> 
   </a>
   <a href="https://dribbble.com/mcbasco" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/dribbble.svg" alt="Michelle B | Dribbble" width="22px"/> 
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/dribbble.svg" alt="Michelle B | Dribbble" width="30" height="30"/> 
   </a>
   <a href="https://codepen.io/mbasco" target="_blank">
-    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/codepen.svg" alt="Michelle B | Codepen" width="22px"/>
+    <img src="https://github.com/mbasco/mbasco/blob/main/Icons/codepen.svg" alt="Michelle B | Codepen" width="30" height="30"/>
   </a>
 </p>
+
 
 
 <!--
